@@ -1,0 +1,33 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:03.000
+GlobeQuest — fictional data, Basic planner (no AI model).
+
+2
+00:00:03.000 --> 00:00:26.858
+Anywhere: the dart can land on any of 232 eligible countries. Choosing Africa narrows the pool; Surprise me stays in Africa; Show anywhere returns to worldwide; the dart lands inside a real country.
+
+3
+00:00:26.858 --> 00:00:42.858
+Somalia’s country page: a detailed, sourced profile — geography, history, culture, places with access cautions, food — labelled Manual trips only.
+
+4
+00:00:42.858 --> 00:01:02.902
+A fictional Peru trip from Columbus (CMH): 6 days from May 10, 2027, 2 travelers, $2,000. The planner asks whether the budget includes flights, compares two routes and builds the trip summary and day cards.
+
+5
+00:01:02.902 --> 00:01:14.243
+Removing a stop shows a preview of what changes, the time it frees and the budget effect. Cancel saves nothing; Apply saves once; after a reload the change is still there.
+
+6
+00:01:14.243 --> 00:01:17.385
+Find flights prepares the search from the saved trip: round trip, CMH to Lima, May 10 to May 15.
+
+7
+00:01:17.385 --> 00:01:23.385
+Google Flights opens with that route and those dates. Fares and availability are shown by Google; GlobeQuest doesn’t show prices.
+
+8
+00:01:23.385 --> 00:01:25.920
+GlobeQuest: full-stack travel planning with an optional local AI assistant.

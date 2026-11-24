@@ -1,0 +1,49 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:02.801
+A one-minute walkthrough of BudgetFlow, recorded in the running app.
+
+2
+00:00:02.801 --> 00:00:05.103
+A brand-new demo account. Every figure that follows comes from what we enter.
+
+3
+00:00:05.103 --> 00:00:12.392
+Add an account with its starting balance.
+
+4
+00:00:12.392 --> 00:00:23.335
+Record October income: a $3,200 salary.
+
+5
+00:00:23.335 --> 00:00:33.421
+Add an expense: $1,400 rent.
+
+6
+00:00:33.421 --> 00:00:43.413
+Three more expenses: groceries, transport and dining (shown at 2× speed).
+
+7
+00:00:43.413 --> 00:00:45.616
+All five entries appear in Transactions.
+
+8
+00:00:45.616 --> 00:00:48.767
+After a full page reload, the entries are still there: they’re saved in the database.
+
+9
+00:00:48.767 --> 00:00:56.410
+Set an $80 monthly budget for dining out.
+
+10
+00:00:56.410 --> 00:00:58.998
+$72.80 of $80 is spent, so the budget warns before the limit is reached.
+
+11
+00:00:58.998 --> 00:01:05.712
+Back on the dashboard: totals, charts and budget progress reflect the entries.
+
+12
+00:01:05.712 --> 00:01:08.914
+The finished dashboard, built entirely from the entries above.
